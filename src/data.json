@@ -1,0 +1,77 @@
+{ 
+    "books":[
+    {
+        "id": 1,
+        "bookName": "Feminisimo para principantes",
+        "year": 2019,
+        "editorial": "Penguin Random House",
+        "author":"Nuria Varela",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/819SKuVK7bL.jpg",
+        "genre": "Políticas de igualdad"
+    },
+    {
+        "id": 2,
+        "bookName": "Feminisimo 4.0 La Cuarta Ola",
+        "year": 2019,
+        "editorial": "Penguin Random House",
+        "author":"Nuria Varela",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71ESReSR7SL.jpg",
+        "genre": "Políticas de igualdad"
+
+    },
+    {
+        "id": 3,
+        "bookName": "Abrir el melón",
+        "year": 2020,
+        "editorial": "Libros del K.O.",
+        "author":"June Fernandez",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/719zXMAPgTL.jpg",
+        "genre": "Medios de comunicación"
+    },
+    {
+        "id": 4,
+        "bookName": "Brujas Guerreras Diosas",
+        "year": 2020,
+        "editorial": "Libros del zorro rojo",
+        "author":"Kate Hodges",
+        "image": "https://librosdelzorrorojo.com/wp-content/uploads/2020/10/COVER_Mujeres_WEB.jpg",
+        "genre": "Historia"
+    },
+    {
+        "id": 5,
+        "bookName": "Las hijas de Lilith",
+        "year": 2020,
+        "editorial": "Grandes Temas, Cátedra",
+        "author":"Erika Bornay",
+        "image": "https://www.catedra.com/imagenes/libros/grande/9788437641348-las-hijas-de-lilith.jpg",
+        "genre": "Cultura"
+    },
+    {
+        "id": 6,
+        "bookName": "Mujeres, casas y ciudades",
+        "year": 2018,
+        "editorial": "dpr-barcelona",
+        "author":"Zaida Muxí Martínez",
+        "image": "https://imagessl9.casadellibro.com/a/l/t5/49/9788494938849.jpg",
+        "genre": "Cultura"
+    },
+    {
+        "id": 7,
+        "bookName": "Las mentiras 'cientificas' sobre las mujeres",
+        "year": 2017,
+        "editorial": "Catarata",
+        "author":"S. García Dauder y Eulalia Pérez Sedeño",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51D6Z3KM5rL.jpg",
+        "genre": "Ciencia y tecnología"
+    },
+    {
+        "id": 8,
+        "bookName": "Caliban y la bruja",
+        "year": 2018,
+        "editorial": "Virus",
+        "author":"Silvia Federici",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71sA1NBc89L.jpg",
+        "genre": "Economía"
+    }
+]
+}
